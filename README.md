@@ -5,6 +5,7 @@ Preview Video of Death Game : https://www.youtube.com/watch?v=leGgTqmjCFU&ab_cha
 
 If you lose, you die.<br>
 You have mathematical calculations with a certain level, a timer will follow you.<br>
+The calculations are randomly generated and are therefore never the same :) ! <br>
 Good luck.<br>
 (I could not record too much but in the end my client and server crash.)<br><br>
 
